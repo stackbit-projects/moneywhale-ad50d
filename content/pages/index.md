@@ -19,10 +19,10 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
     video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/iiNa-l5AI20" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="airtable-embed"
+      src="https://airtable.com/embed/shrZ8xvvOnI2gX5dZ?backgroundColor=green"
+      frameborder="0" onmousewheel="" width="100%" height="533"
+      style="background: transparent; border: 1px solid #ccc;"></iframe>
   - type: grid_section
     title: Featured On
     align: center
