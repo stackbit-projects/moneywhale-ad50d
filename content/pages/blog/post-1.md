@@ -1,42 +1,44 @@
 ---
 title: How To Plan Your Day With YourGoal
 subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.
-date: 2020-11-04
+  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
+  videre, nihil tranquilli potest.
+date: '2020-11-04'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tips.yaml
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti magnitudine obruebantur. Duo Reges: constructio interrete.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
+  magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: images/post-1.jpg
 thumb_image_alt: Post 1 placeholder image
 image: images/post-1.jpg
 image_alt: Post 1 placeholder image
-image_position: right
+image_position: left
 seo:
   title: How To Plan Your Day With YourGoal
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: article
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: How To Plan Your Day With YourGoal
       keyName: property
-    - name: og:description
-      value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - name: 'og:description'
+      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-1.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: How To Plan Your Day With YourGoal
-    - name: twitter:description
-      value: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - name: twitter:image
+    - name: 'twitter:description'
+      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+    - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
 layout: post
